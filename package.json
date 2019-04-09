@@ -1,0 +1,28 @@
+{
+  "name": "pico8-theme",
+  "displayName": "pico8-theme",
+  "description": "A syntax theme based on PICO-8 by lexaloffle",
+  "version": "0.1.0",
+  "publisher": "ianjsikes",
+  "repository": "https://github.com/ianjsikes/pico8-theme",
+  "engines": {
+    "vscode": "^1.33.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "PICO-8",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PICO-8-color-theme.json"
+      },
+      {
+        "label": "PICO-8 Editor-Only",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PICO-8-editor-theme.json"
+      }
+    ]
+  }
+}
