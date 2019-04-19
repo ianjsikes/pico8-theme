@@ -2,7 +2,7 @@
   "name": "pico8-theme",
   "displayName": "pico8-theme",
   "description": "A syntax theme based on PICO-8 by lexaloffle",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "ianjsikes",
   "repository": "https://github.com/ianjsikes/pico8-theme",
   "engines": {
